@@ -2,7 +2,7 @@
   "public": {
     "default": {
       "commerce-core-endpoint": "http://local.magentocomposeree.com:8082/graphql",
-      "commerce-endpoint": "https://catalog-service.adobe.io/graphql",
+      "commerce-endpoint": "https://catalog-service-sandbox.adobe.io/graphql",
       "headers": {
         "all": {
           "Store": "default"
